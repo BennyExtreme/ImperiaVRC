@@ -1,6 +1,6 @@
 # ImperiaVRC
 
-This repository hosts encrypted files and image assets required for the proper functionality of [Imperia VRChat](https://vrchat.com/home/group/grp_47a19f66-356e-464e-ba1c-d8f9c4dcd366/) group's VRChat worlds.
+This repository hosts encrypted files and image assets required for the proper functionality of [Imperia VRChat](https://vrchat.com/home/group/grp_47a19f66-356e-464e-ba1c-d8f9c4dcd366/) group's VRChat worlds.  
 It also leverages **GitHub Pages** to make resources accessible within the game.
 
 ## 📂 Repository Contents
