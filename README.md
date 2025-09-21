@@ -24,5 +24,5 @@ This repository is not open for external contributions.
 
 ## 📜 License
 
-This project is intended for private use within the Imperia VRChat community.
+This project is intended for private use within the Imperia VRChat community.  
 Unauthorized use, redistribution, or modification of the contents is prohibited.
